@@ -1,0 +1,14 @@
+{
+  "name": "umlusca/microuid",
+  "version": "1.0.2",
+  "description": "Gerador de UIDs customizados com suporte a validação, e com timestamp incluídos.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "MicroUID\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.2"
+  }
+}
